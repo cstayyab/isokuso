@@ -1,0 +1,2 @@
+# isokuso
+Static Site Generator
